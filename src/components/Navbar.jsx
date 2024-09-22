@@ -7,7 +7,7 @@ const Navbar = () => {
         <div className="w-80 h-12 hover:cursor-pointer">
           <img src='src\assets\logo 1.png' alt="log" />
         </div>
-        <div className="w-80 h-12 flex items-center justify-around">
+        <div className="w-80 h-12 flex items-center justify-evenly">
           <div className='hover:cursor-pointer'><img src='src\assets\Group 1097.png' alt='Home' /></div>
           <div className='hover:cursor-pointer'><img src='src\assets\Group 1100.png' alt='Settings' /></div>
           <div className='relative hover:cursor-pointer'>
